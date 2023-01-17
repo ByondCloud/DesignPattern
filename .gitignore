@@ -1,0 +1,4 @@
+# 项目排除路径
+/1Principle/target/
+/3Singleton/target/
+/4SimpleFactory/target/
