@@ -13,6 +13,20 @@
         <module>2UML</module>
         <module>3Singleton</module>
         <module>4SimpleFactory</module>
+        <module>5Factory</module>
+        <module>6AbsFactory</module>
+        <module>7Prototype</module>
+        <module>8Builder</module>
+        <module>9Adapter</module>
+        <module>10Bridge</module>
+        <module>11Decorator</module>
+        <module>12Composite</module>
+        <module>13Facade</module>
+        <module>14FlyWeight</module>
+        <module>15Proxy</module>
+        <module>16Template</module>
+        <module>17Command</module>
+        <module>18Visitor</module>
     </modules>
 
     <properties>
