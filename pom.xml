@@ -27,6 +27,15 @@
         <module>16Template</module>
         <module>17Command</module>
         <module>18Visitor</module>
+        <module>19Iterator</module>
+        <module>20Observer</module>
+        <module>20Mediator</module>
+        <module>21Mediator</module>
+        <module>22.Memento</module>
+        <module>23Interpreter</module>
+        <module>24State</module>
+        <module>25Strategy</module>
+        <module>26ResponsibilityChain</module>
     </modules>
 
     <properties>
